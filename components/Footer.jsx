@@ -9,10 +9,7 @@ const Footer = () => {
         <div className="w-4/5">
           <Image className="w-28 md:w-32" src={assets.logo} alt="logo" />
           <p className="mt-6 text-sm">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+          QuickCart is your go-to destination for seamless online shopping, where quality meets unbeatable value. From cutting-edge electronics and stylish fashion to everyday must-haves, we bring you a curated selection that fits your lifestyle. Designed to make your shopping journey smooth and stress-free, we offer lightning-fast delivery, rock-solid security, and an easy return process. Discover why thousands choose QuickCart — and turn every purchase into a smart decision.
           </p>
         </div>
 
@@ -41,13 +38,13 @@ const Footer = () => {
             <h2 className="font-medium text-gray-900 mb-5">Get in touch</h2>
             <div className="text-sm space-y-2">
               <p>+1-234-567-890</p>
-              <p>contact@greatstack.dev</p>
+              <p>contact- km6522391@gmail.com</p>
             </div>
           </div>
         </div>
       </div>
       <p className="py-4 text-center text-xs md:text-sm">
-        Copyright 2025 © GreatStack.dev All Right Reserved.
+      Made with ❤️ by Kajal.dev • © 2025 All rights reserved.
       </p>
     </footer>
   );
